@@ -1,24 +1,20 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include fisheries management and data science analysis.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master's Student in Environmental Science & Management
+    institution: University of California Santa Barbara
+    year: Current
+  - course: Bachelor of Science in Environmental Science
+    institution: California State University Channel Islands
+    year: 2019
+email: "rubensanchezramirez@uscb.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental Data Science
+- Coastal Marine Resources Management
+- Geospatial Analysis
 name: Ruben Sanchez Ramirez
 organizations:
 - name: Bren School of Environmental Science & Management
