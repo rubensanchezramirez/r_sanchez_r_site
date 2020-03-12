@@ -21,8 +21,7 @@ interests:
 - Information Retrieval
 name: Ruben Sanchez Ramirez
 organizations:
-- name: Bren School of Environmental Science & Management <br />
-University of California, Santa Barbara
+- name: Bren School of Environmental Science & Management
   url: ""
 role: Professor of Artificial Intelligence
 social:
