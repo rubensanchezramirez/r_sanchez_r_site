@@ -26,7 +26,7 @@
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Contact"
@@ -35,8 +35,8 @@
   
 [[main]]
   name = "Courses"
-  url = "#courses/"
-  weight = 70
+  url = "courses/"
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
