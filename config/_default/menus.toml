@@ -32,6 +32,12 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+  
+[[main]]
+  name = "Courses"
+  url = "#courses/"
+  weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -39,3 +45,5 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+# https://github.com/rubensanchezramirez/r_sanchez_r_site/raw/master/static/files/cv.pdf
