@@ -23,7 +23,7 @@ name: Ruben Sanchez Ramirez
 organizations:
 - name: Bren School of Environmental Science & Management
   url: ""
-role: Master's Student: Environmental Data Science & Coastal Marine Resource Management
+role: Master's Student of Environmental Science & Management
 social:
 - icon: envelope
   icon_pack: fas
