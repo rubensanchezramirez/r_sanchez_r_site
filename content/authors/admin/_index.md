@@ -28,15 +28,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/ruben-sanchez-ramirez-70529a197/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rubensanchezramirez
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/rubensanchezramirez/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RubenSanchezRa6
+- icon: facebook-f
+  icon_pack: fab
+  link: https://www.facebook.com/ruben.sanchezramirez.125
 superuser: true
 user_groups:
 - Researchers
