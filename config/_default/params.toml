@@ -12,7 +12,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -105,10 +105,12 @@ address = {street = "UCSB", city = "Santa Barbara", region = "CA", postcode = "9
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "linkedin-in", icon_pack = "fab", name = "LinkedIn:", link = "https://www.linkedin.com/in/ruben-sanchez-ramirez-70529a197/"},
+  {icon = "skype", icon_pack = "fab", name = "Skype:", link = "skype:echo123?call"},
+  {icon = "video", icon_pack = "fas", name = "Zoom:", link = "https://us04web.zoom.us/j/2927283141"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter:", link = "https://twitter.com/Twitter"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

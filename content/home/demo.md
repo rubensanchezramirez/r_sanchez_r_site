@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
+title = ""
 subtitle = ""
 
 [design]
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image = "headers/ojai.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,16 +50,24 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+<blockquote class="blockquote-reverse">
+    <p>"Like winds and sunsets, wild things were taken for granted untill progress began to do away with them. Now we face the question whether a still higher 'standard of lving' is worth its cost in things natural, wild and free."</p>
+    <p> - Aldo Leopold</p>
+</blockquote>
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+<blockquote class="blockquote-reverse">
+    <p>"Well, a man’s mind can’t stay in time the way his body does.” “If I’m going to settle here I need to know about how and what will be."</p>
+    <p> - J. Steinbeck</p>
+</blockquote>
+  
+<blockquote class="blockquote-reverse">
+    <p>"Though we’re human beings we come from a wild planet, to go back into wilderness is to find ourselves. There’s no scientist that can reproduce it, there’s no greater composers that can match it, there’s no great writer that can describe it, the experience of being in the wild is an extraordinary, unique, part of finding out who we are."</p>
+    <p> - Bob Brown</p>
+</blockquote>
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+<!--{{% alert note %}}
+#This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+{{% /alert %}}-->

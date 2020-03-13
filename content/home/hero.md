@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "geo_nature.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#2B2B2B"
+  gradient_end = "#000000"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -37,8 +37,8 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "files/cv.pdf"
-  label = "Download My CV"
+  url = "https://hopeful-euler-17ee12.netlify.com/files/cv.pdf"
+  label = "View My CV"
   icon_pack = "fas"
   icon = "download"
   
@@ -73,10 +73,16 @@ Build **Anything** with Widgets
 
 <!-- social icon links -->
 <div>
-<!--Github-->
-<a href="https://github.com/rubensanchezramirez" target="_blank" class="social-icon"><i class="fab fa-lg fa-github"></i></a>
 <!--Linkedin-->
 <a href="https://www.linkedin.com/in/ruben-sanchez-ramirez-70529a197/" target="_blank" class="social-icon"><i class="fab fa-lg fa-linkedin-in"></i></a>
+<!--Github-->
+<a href="https://github.com/rubensanchezramirez" target="_blank" class="social-icon"><i class="fab fa-lg fa-github"></i></a>
+<!--Instagram-->
+<a href="https://www.instagram.com/rubensanchezramirez/" target="_blank" class="social-icon"><i class="fab fa-lg fa-instagram"></i></a>
+<!--Twitter-->
+<a href="https://twitter.com/RubenSanchezRa6" target="_blank" class="social-icon"><i class="fab fa-lg fa-twitter"></i></a>
+<!--Facebook-->
+<a href="https://www.facebook.com/ruben.sanchezramirez.125" target="_blank" class="social-icon"><i class="fab fa-lg fa-facebook-f"></i></a>
 <!--Email-->
-<a href="mailto:rubensanchezramirez@ucsb.edu" target="_blank" class="social-icon"><i class="far fa-lg fa-envelope"></i></a>
+<!--<a href="mailto:rubensanchezramirez@ucsb.edu" target="_blank" class="social-icon"><i class="far fa-lg fa-envelope"></i></a>-->
 </div>

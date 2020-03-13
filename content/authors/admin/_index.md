@@ -21,6 +21,7 @@ organizations:
   url: ""
 role: Master's Student of Environmental Science & Management
 social:
+#Comment out the contact button:
 #- icon: envelope
   #icon_pack: fas
   #link: '#contact'

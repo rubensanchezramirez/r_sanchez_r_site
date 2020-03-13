@@ -13,30 +13,25 @@
   url = "#about"
   weight = 20
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 30
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 40
-
-[[main]]
-  name = "CV"
-  url = "files/cv.pdf"
-  weight = 70
+  weight = 30
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 40
   
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
+#[[main]]
+ # name = "Courses"
+ # url = "courses/"
+# weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -46,4 +41,5 @@
 #    url = "files/cv.pdf"
 #    weight = 70
 
+# Link to download CV:
 # https://github.com/rubensanchezramirez/r_sanchez_r_site/raw/master/static/files/cv.pdf
