@@ -37,22 +37,46 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "window.open(files/cv.pdf)"
+  label = "Download My CV"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "#contact"
+  label = "Contact Me"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = ''
+  
 +++
 
 **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
 
 Build **Anything** with Widgets
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<!-- .social-icon css style for this widget -->
+<style>
+.social-icon {
+  padding: 0px 0px 0px 0px;
+  transition: transform .2s; /* Animation */
+  width: 40px;
+  height: 40px;
+  margin: 0 0 10px 5px;
+  display: inline-block;
+}
+.social-icon:hover {
+  transform: scale(1.2)
+}
+</style>
+
+<!-- social icon links -->
+<div>
+<!--Github-->
+<a href="https://github.com/rubensanchezramirez" target="_blank" class="social-icon"><i class="fab fa-lg fa-github"></i></a>
+<!--Linkedin-->
+<a href="https://www.linkedin.com/in/ruben-sanchez-ramirez-70529a197/" target="_blank" class="social-icon"><i class="fab fa-lg fa-linkedin-in"></i></a>
+<!--Email-->
+<a href="mailto:rubensanchezramirez@ucsb.edu" target="_blank" class="social-icon"><i class="far fa-lg fa-envelope"></i></a>
+</div>

@@ -21,9 +21,9 @@ organizations:
   url: ""
 role: Master's Student of Environmental Science & Management
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+#- icon: envelope
+  #icon_pack: fas
+  #link: '#contact'
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/ruben-sanchez-ramirez-70529a197/
