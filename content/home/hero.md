@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Environmental Data Science"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "geo_nature.png"
@@ -17,7 +17,7 @@ hero_media = "geo_nature.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "#000000"
   
   # Background gradient.
   gradient_start = "#2B2B2B"
@@ -52,9 +52,9 @@ hero_media = "geo_nature.png"
   
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Hire Me For You Next Data Science Project or Spatial Data Project:**
 
-Build **Anything** with Widgets
+Proficient in **R Studio** and **ArcGIS**
 
 <!-- .social-icon css style for this widget -->
 <style>
